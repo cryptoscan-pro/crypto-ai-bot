@@ -9,6 +9,11 @@ This is a Telegram bot that interacts with an AI API to provide responses to use
 - Responds to voice message uploads from users
 - Responds to document uploads from users
 
+[[GitHub]](https://github.com/cryptoscan-pro/crypto-ai-bot)
+[[Our website]](https://cryptoscan.pro/)
+[[Docs]](https://docs.cryptoscan.pro/)
+[[Discord]](https://discord.gg/ktewAs67fE)
+
 ## Usage
 
 1. Clone the repository:
