@@ -14,7 +14,7 @@ bot.on('message', async (ctx) => {
 		const response = await fetch(url, {
 			headers: {
 				'Content-Type': 'application/json',
-				Authorization: process.env.CRYPTOSCAN_API_KEY || undefined,
+				//Authorization: process.env.CRYPTOSCAN_API_KEY || undefined,
 			},
 		});
 

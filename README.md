@@ -1,5 +1,7 @@
 # Telegram AI Bot
 
+<img src="./assets/example.jpg" alt="Example Image" style="height:400px;">
+
 This is a Telegram bot that interacts with an AI API to provide responses to user messages.
 
 ## Features
@@ -48,6 +50,10 @@ This is a Telegram bot that interacts with an AI API to provide responses to use
 The bot uses the [Telegraf.js](https://telegrafjs.org/) library to interact with the Telegram Bot API. When a user sends a message, the bot extracts the message text or file URL (for photos, voice messages, and documents) and sends a POST request to the `https://api.cryptoscan.pro/ai` API with the extracted data as the `prompt` parameter.
 
 The API response is then parsed and sent back to the user as the bot's response.
+
+## Examples of questions
+
+- Give pumps in bybit in 1 minute
 
 ## Dependencies
 
